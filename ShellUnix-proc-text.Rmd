@@ -1,7 +1,7 @@
 ---
-title: "Procesamiento básico de texto en Unix | V Máster en Data Science | KSchool"
+title: "Procesamiento básico de texto en Unix | I Máster en Data Science | KSchool Barcelona"
 author: "Víctor Peinado"
-date: "23-24 de febrero de 2018"
+date: "16-17 de marzo de 2018"
 output:
   rmarkdown::tufte_handout:
     highlight: pygments
